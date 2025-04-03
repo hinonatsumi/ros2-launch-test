@@ -1,0 +1,39 @@
+-- The C compiler identification is GNU 9.4.0
+-- The CXX compiler identification is GNU 9.4.0
+-- Check for working C compiler: /usr/bin/cc
+-- Check for working C compiler: /usr/bin/cc -- works
+-- Detecting C compiler ABI info
+-- Detecting C compiler ABI info - done
+-- Detecting C compile features
+-- Detecting C compile features - done
+-- Check for working CXX compiler: /usr/bin/c++
+-- Check for working CXX compiler: /usr/bin/c++ -- works
+-- Detecting CXX compiler ABI info
+-- Detecting CXX compiler ABI info - done
+-- Detecting CXX compile features
+-- Detecting CXX compile features - done
+-- Found ament_cmake: 0.9.12 (/opt/ros/foxy/share/ament_cmake/cmake)
+-- Found PythonInterp: /usr/bin/python3 (found suitable version "3.8.10", minimum required is "3") 
+-- Using PYTHON_EXECUTABLE: /usr/bin/python3
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /ros2_ws/build/tutorial_launch
+-- Install configuration: ""
+-- Installing: /ros2_ws/install/tutorial_launch/share/tutorial_launch//launch
+-- Installing: /ros2_ws/install/tutorial_launch/share/tutorial_launch//launch/helloworld.launch.py~
+-- Installing: /ros2_ws/install/tutorial_launch/share/tutorial_launch//launch/helloworld.launch.py
+-- Installing: /ros2_ws/install/tutorial_launch/share/ament_index/resource_index/package_run_dependencies/tutorial_launch
+-- Installing: /ros2_ws/install/tutorial_launch/share/ament_index/resource_index/parent_prefix_path/tutorial_launch
+-- Installing: /ros2_ws/install/tutorial_launch/share/tutorial_launch/environment/ament_prefix_path.sh
+-- Installing: /ros2_ws/install/tutorial_launch/share/tutorial_launch/environment/ament_prefix_path.dsv
+-- Installing: /ros2_ws/install/tutorial_launch/share/tutorial_launch/environment/path.sh
+-- Installing: /ros2_ws/install/tutorial_launch/share/tutorial_launch/environment/path.dsv
+-- Installing: /ros2_ws/install/tutorial_launch/share/tutorial_launch/local_setup.bash
+-- Installing: /ros2_ws/install/tutorial_launch/share/tutorial_launch/local_setup.sh
+-- Installing: /ros2_ws/install/tutorial_launch/share/tutorial_launch/local_setup.zsh
+-- Installing: /ros2_ws/install/tutorial_launch/share/tutorial_launch/local_setup.dsv
+-- Installing: /ros2_ws/install/tutorial_launch/share/tutorial_launch/package.dsv
+-- Installing: /ros2_ws/install/tutorial_launch/share/ament_index/resource_index/packages/tutorial_launch
+-- Installing: /ros2_ws/install/tutorial_launch/share/tutorial_launch/cmake/tutorial_launchConfig.cmake
+-- Installing: /ros2_ws/install/tutorial_launch/share/tutorial_launch/cmake/tutorial_launchConfig-version.cmake
+-- Installing: /ros2_ws/install/tutorial_launch/share/tutorial_launch/package.xml

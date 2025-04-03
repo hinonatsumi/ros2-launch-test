@@ -1,0 +1,29 @@
+-- Found ament_cmake: 0.9.12 (/opt/ros/foxy/share/ament_cmake/cmake)
+-- Using PYTHON_EXECUTABLE: /usr/bin/python3
+-- Override CMake install command with custom implementation using symlinks instead of copying resources
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /ros2_ws/build/tutorial_launch
+-- Install configuration: ""
+-- Execute custom install script
+-- Symlinking: /ros2_ws/install/tutorial_launch/share/tutorial_launch//launch/helloworld.launch.py
+-- Symlinking: /ros2_ws/install/tutorial_launch/share/tutorial_launch//launch/helloworld.launch.py~
+-- Symlinking: /ros2_ws/install/tutorial_launch/share/tutorial_launch//launch/remap.launch.py
+-- Symlinking: /ros2_ws/install/tutorial_launch/share/tutorial_launch//launch/remap.launch.py~
+-- Symlinking: /ros2_ws/install/tutorial_launch/share/tutorial_launch//launch/topic.launch.py
+-- Symlinking: /ros2_ws/install/tutorial_launch/share/tutorial_launch//launch/topic.launch.py~
+-- Symlinking: /ros2_ws/install/tutorial_launch/share/ament_index/resource_index/package_run_dependencies/tutorial_launch
+-- Symlinking: /ros2_ws/install/tutorial_launch/share/ament_index/resource_index/parent_prefix_path/tutorial_launch
+-- Symlinking: /ros2_ws/install/tutorial_launch/share/tutorial_launch/environment/ament_prefix_path.sh
+-- Symlinking: /ros2_ws/install/tutorial_launch/share/tutorial_launch/environment/ament_prefix_path.dsv
+-- Symlinking: /ros2_ws/install/tutorial_launch/share/tutorial_launch/environment/path.sh
+-- Symlinking: /ros2_ws/install/tutorial_launch/share/tutorial_launch/environment/path.dsv
+-- Symlinking: /ros2_ws/install/tutorial_launch/share/tutorial_launch/local_setup.bash
+-- Symlinking: /ros2_ws/install/tutorial_launch/share/tutorial_launch/local_setup.sh
+-- Symlinking: /ros2_ws/install/tutorial_launch/share/tutorial_launch/local_setup.zsh
+-- Symlinking: /ros2_ws/install/tutorial_launch/share/tutorial_launch/local_setup.dsv
+-- Symlinking: /ros2_ws/install/tutorial_launch/share/tutorial_launch/package.dsv
+-- Symlinking: /ros2_ws/install/tutorial_launch/share/ament_index/resource_index/packages/tutorial_launch
+-- Symlinking: /ros2_ws/install/tutorial_launch/share/tutorial_launch/cmake/tutorial_launchConfig.cmake
+-- Symlinking: /ros2_ws/install/tutorial_launch/share/tutorial_launch/cmake/tutorial_launchConfig-version.cmake
+-- Symlinking: /ros2_ws/install/tutorial_launch/share/tutorial_launch/package.xml

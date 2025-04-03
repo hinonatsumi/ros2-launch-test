@@ -1,0 +1,9 @@
+services:
+  launch_h:
+    build: 
+      context: .
+    network_mode: host
+    ipc: host
+    volumes:
+      - ./ros2_ws:/ros2_ws
+    command: bash -c
